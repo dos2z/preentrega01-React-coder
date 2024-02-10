@@ -1,0 +1,18 @@
+nav{
+    background-color: #161515;
+    padding: 20px;
+    & h1{
+        font-size: 2rem;
+        color: tomato;
+        text-align: center;
+    }
+    .navbar__menu{
+        display: flex;
+        justify-content: center;
+        & a {
+            margin: 20px;
+            color: white;
+        }
+    }
+   
+}
