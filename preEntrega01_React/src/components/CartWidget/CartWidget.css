@@ -1,0 +1,22 @@
+.CartWidget {
+    cursor: pointer;
+    position: relative;
+    width: 55px;
+    height: 55px;
+    background-color: white;
+    border-radius: 10px;
+    border: 2px outset tomato;
+    & img {
+        width: 100%;
+    }
+    & span{
+        position: absolute;
+        top: 0;
+        display: flex;
+        width: 100%;
+        height: 100%;
+        justify-content: center;
+        align-items: start;
+        
+    }
+}
