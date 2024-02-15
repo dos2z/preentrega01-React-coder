@@ -1,11 +1,9 @@
 .CartWidget {
     cursor: pointer;
     position: relative;
-    width: 55px;
-    height: 55px;
+    width: 40px;
+    height: 40px;
     background-color: white;
-    border-radius: 10px;
-    border: 2px outset tomato;
     & img {
         width: 100%;
     }

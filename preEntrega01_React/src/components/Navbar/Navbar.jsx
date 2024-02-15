@@ -6,7 +6,7 @@ const Navbar = () => {
   
   return (
     <nav>
-        <h1>Phoenix Coffee Roaesters</h1>
+        <h2>Phoenix Coffee Roasters</h2>
         <div className="navbar__menu">
             <a href="">Café</a>
             <a href="">Cafeteras</a>
